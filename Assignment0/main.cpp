@@ -33,10 +33,6 @@ Data* preOrder(int* a, int i, int N){
             newData->min = leftData->min;
             newData->max = a[i];
             newData->BST = true;
-        } else if(leftData->BST == true && leftData->min >= a[i]) {
-            newData->min = a[i];
-            newData->max = leftData->max;
-            newData->BST = true;
         } else {
             newData->BST = false;
         }
