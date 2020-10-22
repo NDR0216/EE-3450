@@ -1,4 +1,4 @@
-# cource-template
+# EE-2450
 Computer Architecture
 
 ## Course Information
