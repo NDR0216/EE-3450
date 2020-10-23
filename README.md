@@ -13,7 +13,7 @@ Computer Architecture
   * Spike
 * [Assignment 1](https://www.ee.nthu.edu.tw/ee345000/program-assignment-1.html)
   * Implement LFSR
-  * LFSR & generate_maze as a function
+  * LFSR & generate_maze as a Function
 * [Assignment 2](https://www.ee.nthu.edu.tw/ee345000/program-assignment-2.html)
   * LFSR-based Random Number Generator
   * Linear Search
